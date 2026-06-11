@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "ganesh",
+      "number": "7588039027",
+      "id": "bSs0lAciEVo"
+    },
+    {
+      "name": "rahul",
+      "number": "121212123",
+      "id": "DXvLH_-6Rmw"
+    },
+    {
+      "name": "dgsg",
+      "number": "56456",
+      "id": "Vzi0_5sg8w8"
+    },
+    {
+      "name": "daggg`",
+      "number": "85874",
+      "id": "j4fC0vhw9tw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

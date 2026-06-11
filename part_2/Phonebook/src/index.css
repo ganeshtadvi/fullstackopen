@@ -1,0 +1,15 @@
+.successful {
+    padding: 5px;
+    color:green;
+    border:3px solid green;
+    border-radius: 10px;
+    font-size: 23px;
+}
+
+.failed{
+    padding: 5px;
+    color:red;
+    border:3px solid red;
+    border-radius: 10px;
+    font-size: 23px;
+}
