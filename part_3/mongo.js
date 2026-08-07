@@ -1,7 +1,11 @@
 import mongoose from "mongoose";
 
-const password = process.argv[2];
-const url = `mongodb+srv://gtadvi601_db_user:${password}@fullstackopen.fatgvza.mongodb.net/?appName=fullstackopen`;
+const password = process.env.DB_PASS
+
+const username = process.env.USERNAME
+
+const url = `mongodb+srv://${username}:${password}@fullstackopen.fatgvza.mongodb.net/?appName=fullstackopen`;
+
 
 mongoose
   .connect(url)
