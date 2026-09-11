@@ -9,7 +9,7 @@ The course focuses on modern web development using JavaScript, React, Node.js, E
 **Full Stack Open**
 University of Helsinki
 
-Course website: https://fullstackopen.com/
+Course website: https://fullstackopen.com/en
 
 ## Repository Structure
 
